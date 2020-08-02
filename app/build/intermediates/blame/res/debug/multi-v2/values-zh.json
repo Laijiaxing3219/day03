@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Day03donghua\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "E:\\Day03Mvpchouqu\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\机械革命\\.gradle\\caches\\transforms-2\\files-2.1\\2d3a7aed0a24e43f4693ed161e7fa897\\jetified-SmartRefreshHeader-1.1.0-alpha-14\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\机械革命\\.gradle\\caches\\transforms-2\\files-2.1\\b38fe7cb7157e5928f5a0411101473f7\\SmartRefreshHeader-1.1.0-alpha-14\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

@@ -9,7 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f81ce6-9b09-4b07-89b4-1ebb5e452b4b" name="Default Changelist" comment="" />
+    <list default="true" id="6489b3ff-74c1-4c1a-91f6-f070c23ddf14" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,30 +19,101 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="127.0.0.1:5555" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Day03Mvpchouqu" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/loading.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="297">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03donghua/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="-486">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/widget/LoadingDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="22" column="79" lean-forward="true" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1079">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -52,92 +123,128 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
-        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="layoutResourceFile_vertical" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/anim/shuxing.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/anim/an_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/frame_anim.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03donghua/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/MianPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseApp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/LoadingDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BasePresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/Constants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/bean/NaviBean.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/model/LoginModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/ResultCallBack.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/RxUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/WanService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/presenter/MainView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/util/LogUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/util/SystemUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/util/ToastUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/MianView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/view/MainView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/view/MianView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/model/MainModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/ResultSubscriber.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/presenter/MianPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/loading.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/MainActivity.java" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/widget/LoadingDialog.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="716" />
+    <option name="y" value="328" />
+    <option name="width" value="1484" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Day03donghua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03donghua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Day03Mvpchouqu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day03Mvpchouqu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="Day03donghua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03donghua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Day03Mvpchouqu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day03Mvpchouqu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="Day03donghua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03donghua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03donghua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03donghua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Day03Mvpchouqu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day03Mvpchouqu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Day03donghua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03donghua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Day03Mvpchouqu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day03Mvpchouqu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03donghua" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03donghua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
-              <item name="Day03donghua" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Day03Mvpchouqu" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Day03Mvpchouqu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Day03Mvpchouqu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="day03mvpchouqu" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day03Mvpchouqu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Day03Mvpchouqu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Day03Mvpchouqu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -146,17 +253,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="emulator-5554" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-02T12:41:00.364Z" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../appurl" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day03Mvpchouqu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Day03donghua\app\src\main\res\drawable-v24" />
-      <recent name="E:\Day03donghua\app\src\main\res\drawable" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.day03mvpchouqu" />
+      <recent name="com.example.day03mvpchouqu.base" />
+      <recent name="com.example.day03mvpchouqu.presenter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,19 +347,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3f81ce6-9b09-4b07-89b4-1ebb5e452b4b" name="Default Changelist" comment="" />
-      <created>1596365020440</created>
+      <changelist id="6489b3ff-74c1-4c1a-91f6-f070c23ddf14" name="Default Changelist" comment="" />
+      <created>1596337666497</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596365020440</updated>
+      <updated>1596337666497</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.30087528" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.11567164" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -259,17 +378,18 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Run" order="0" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.32932165" />
-      <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.29469123" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.33260393" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Preview" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
@@ -311,43 +431,402 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/day03test/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="-353" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/LoadingDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/animi.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BasePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/model/LoginModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/bean/NaviBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#94246#94247#0" expanded="true" />
+            <element signature="e#94278#94279#0" expanded="true" />
+            <element signature="e#94325#94326#0" expanded="true" />
+            <element signature="e#94367#94368#0" expanded="true" />
+            <element signature="e#94402#94403#0" expanded="true" />
+            <element signature="e#94433#94434#0" expanded="true" />
+            <element signature="e#94481#94482#0" expanded="true" />
+            <element signature="e#94521#94522#0" expanded="true" />
+            <element signature="e#94560#94561#0" expanded="true" />
+            <element signature="e#94587#94588#0" expanded="true" />
+            <element signature="e#94635#94636#0" expanded="true" />
+            <element signature="e#94667#94668#0" expanded="true" />
+            <element signature="e#106074#106075#0" expanded="true" />
+            <element signature="e#106108#106109#0" expanded="true" />
+            <element signature="e#106147#106148#0" expanded="true" />
+            <element signature="e#106185#106186#0" expanded="true" />
+            <element signature="e#106220#106221#0" expanded="true" />
+            <element signature="e#106255#106256#0" expanded="true" />
+            <element signature="e#106299#106300#0" expanded="true" />
+            <element signature="e#106339#106340#0" expanded="true" />
+            <element signature="e#106390#106391#0" expanded="true" />
+            <element signature="e#106429#106430#0" expanded="true" />
+            <element signature="e#106493#106494#0" expanded="true" />
+            <element signature="e#106541#106542#0" expanded="true" />
+            <element signature="e#108696#108697#0" expanded="true" />
+            <element signature="e#108742#108743#0" expanded="true" />
+            <element signature="e#108796#108797#0" expanded="true" />
+            <element signature="e#108850#108851#0" expanded="true" />
+            <element signature="e#108887#108888#0" expanded="true" />
+            <element signature="e#108931#108932#0" expanded="true" />
+            <element signature="e#108978#108979#0" expanded="true" />
+            <element signature="e#109028#109029#0" expanded="true" />
+            <element signature="e#109069#109070#0" expanded="true" />
+            <element signature="e#109114#109115#0" expanded="true" />
+            <element signature="e#109166#109167#0" expanded="true" />
+            <element signature="e#109218#109219#0" expanded="true" />
+            <element signature="e#109260#109261#0" expanded="true" />
+            <element signature="e#109306#109307#0" expanded="true" />
+            <element signature="e#109361#109362#0" expanded="true" />
+            <element signature="e#109415#109416#0" expanded="true" />
+            <element signature="e#109456#109457#0" expanded="true" />
+            <element signature="e#109504#109505#0" expanded="true" />
+            <element signature="e#109559#109560#0" expanded="true" />
+            <element signature="e#109617#109618#0" expanded="true" />
+            <element signature="e#109663#109664#0" expanded="true" />
+            <element signature="e#109713#109714#0" expanded="true" />
+            <element signature="e#109775#109776#0" expanded="true" />
+            <element signature="e#109837#109838#0" expanded="true" />
+            <element signature="e#109879#109880#0" expanded="true" />
+            <element signature="e#109925#109926#0" expanded="true" />
+            <element signature="e#109980#109981#0" expanded="true" />
+            <element signature="e#110034#110035#0" expanded="true" />
+            <element signature="e#110074#110075#0" expanded="true" />
+            <element signature="e#110121#110122#0" expanded="true" />
+            <element signature="e#110174#110175#0" expanded="true" />
+            <element signature="e#110230#110231#0" expanded="true" />
+            <element signature="e#110269#110270#0" expanded="true" />
+            <element signature="e#110312#110313#0" expanded="true" />
+            <element signature="e#110360#110361#0" expanded="true" />
+            <element signature="e#110408#110409#0" expanded="true" />
+            <element signature="e#110449#110450#0" expanded="true" />
+            <element signature="e#110494#110495#0" expanded="true" />
+            <element signature="e#110546#110547#0" expanded="true" />
+            <element signature="e#110598#110599#0" expanded="true" />
+            <element signature="e#110644#110645#0" expanded="true" />
+            <element signature="e#110694#110695#0" expanded="true" />
+            <element signature="e#110756#110757#0" expanded="true" />
+            <element signature="e#110818#110819#0" expanded="true" />
+            <element signature="e#110858#110859#0" expanded="true" />
+            <element signature="e#110902#110903#0" expanded="true" />
+            <element signature="e#110953#110954#0" expanded="true" />
+            <element signature="e#111003#111004#0" expanded="true" />
+            <element signature="e#111037#111038#0" expanded="true" />
+            <element signature="e#111078#111079#0" expanded="true" />
+            <element signature="e#111119#111120#0" expanded="true" />
+            <element signature="e#111163#111164#0" expanded="true" />
+            <element signature="e#111202#111203#0" expanded="true" />
+            <element signature="e#111245#111246#0" expanded="true" />
+            <element signature="e#111293#111294#0" expanded="true" />
+            <element signature="e#111341#111342#0" expanded="true" />
+            <element signature="e#111384#111385#0" expanded="true" />
+            <element signature="e#111431#111432#0" expanded="true" />
+            <element signature="e#111487#111488#0" expanded="true" />
+            <element signature="e#111543#111544#0" expanded="true" />
+            <element signature="e#111591#111592#0" expanded="true" />
+            <element signature="e#111643#111644#0" expanded="true" />
+            <element signature="e#111816#111817#0" expanded="true" />
+            <element signature="e#111861#111862#0" expanded="true" />
+            <element signature="e#111913#111914#0" expanded="true" />
+            <element signature="e#111965#111966#0" expanded="true" />
+            <element signature="e#112006#112007#0" expanded="true" />
+            <element signature="e#112051#112052#0" expanded="true" />
+            <element signature="e#112103#112104#0" expanded="true" />
+            <element signature="e#112155#112156#0" expanded="true" />
+            <element signature="e#112201#112202#0" expanded="true" />
+            <element signature="e#112251#112252#0" expanded="true" />
+            <element signature="e#112313#112314#0" expanded="true" />
+            <element signature="e#112375#112376#0" expanded="true" />
+            <element signature="e#112419#112420#0" expanded="true" />
+            <element signature="e#112469#112470#0" expanded="true" />
+            <element signature="e#112529#112530#0" expanded="true" />
+            <element signature="e#112591#112592#0" expanded="true" />
+            <element signature="e#112634#112635#0" expanded="true" />
+            <element signature="e#112684#112685#0" expanded="true" />
+            <element signature="e#112743#112744#0" expanded="true" />
+            <element signature="e#112805#112806#0" expanded="true" />
+            <element signature="e#112849#112850#0" expanded="true" />
+            <element signature="e#112897#112898#0" expanded="true" />
+            <element signature="e#112955#112956#0" expanded="true" />
+            <element signature="e#113013#113014#0" expanded="true" />
+            <element signature="e#113057#113058#0" expanded="true" />
+            <element signature="e#113105#113106#0" expanded="true" />
+            <element signature="e#113163#113164#0" expanded="true" />
+            <element signature="e#113221#113222#0" expanded="true" />
+            <element signature="e#113267#113268#0" expanded="true" />
+            <element signature="e#113320#113321#0" expanded="true" />
+            <element signature="e#113504#113505#0" expanded="true" />
+            <element signature="e#113559#113560#0" expanded="true" />
+            <element signature="e#113743#113744#0" expanded="true" />
+            <element signature="e#113787#113788#0" expanded="true" />
+            <element signature="e#113837#113838#0" expanded="true" />
+            <element signature="e#113887#113888#0" expanded="true" />
+            <element signature="e#113923#113924#0" expanded="true" />
+            <element signature="e#113966#113967#0" expanded="true" />
+            <element signature="e#114011#114012#0" expanded="true" />
+            <element signature="e#114059#114060#0" expanded="true" />
+            <element signature="e#114097#114098#0" expanded="true" />
+            <element signature="e#114142#114143#0" expanded="true" />
+            <element signature="e#114191#114192#0" expanded="true" />
+            <element signature="e#114243#114244#0" expanded="true" />
+            <element signature="e#114282#114283#0" expanded="true" />
+            <element signature="e#114328#114329#0" expanded="true" />
+            <element signature="e#114379#114380#0" expanded="true" />
+            <element signature="e#114433#114434#0" expanded="true" />
+            <element signature="e#114468#114469#0" expanded="true" />
+            <element signature="e#114510#114511#0" expanded="true" />
+            <element signature="e#114553#114554#0" expanded="true" />
+            <element signature="e#114599#114600#0" expanded="true" />
+            <element signature="e#114639#114640#0" expanded="true" />
+            <element signature="e#114682#114683#0" expanded="true" />
+            <element signature="e#114731#114732#0" expanded="true" />
+            <element signature="e#114779#114780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/ResultCallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/RxUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#808#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#934#1215#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/WanService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/presenter/MainView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/util/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/util/ToastUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/util/SystemUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="116" column="87" selection-start-line="116" selection-start-column="87" selection-end-line="116" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/view/MainView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/view/MianView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/model/MainModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-472">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#1530#1540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/ResultSubscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/net/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="63" column="18" lean-forward="true" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/presenter/MianPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/loading.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day03Mvpchouqu.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/shuxing.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/frame_anim.xml">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/an_item.xml">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="1079">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03donghua/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/base/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="405">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/day03mvpchouqu/widget/LoadingDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="79" lean-forward="true" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
